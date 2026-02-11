@@ -59,7 +59,7 @@ nav h1 {
 }
  
 .search input {
-    background-color: #222222;
+    background-color: #080b01;
     border: none;
     border-radius: 1vw 0 0 1vw;
     color: #fff;
@@ -81,7 +81,7 @@ nav h1 {
     background-color: #fff;
     border: none;
     border-radius: 0 1vw 1vw 0;
-    color:#222222;
+    color: #080b01;
     font-size: 1.5vw;
     font-weight: 600;
     padding: 0.8vw 1vw;
@@ -161,7 +161,7 @@ nav h1 {
 .featured a {
     display: inline-block;
     position: relative;
-    color: #2c7ffc;
+    color: #191d23;
     text-decoration: none;
 }
     
@@ -181,7 +181,8 @@ nav h1 {
     
     .featured .play-button i {
     font-size: 5vw;
-    text-shadow: 0 0 100px #2c7ffc;
+    text-shadow: 0 0 100px #191d23;
 
     }
+
 
